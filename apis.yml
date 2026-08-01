@@ -1,8 +1,30 @@
 aid: savant
 name: Savant
-description: Savant is a company surfaced as a portfolio company of y-combinator and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Savant (heysavant.com) is a Y Combinator (Spring 2026) startup building an
+  operational memory layer for AI-native enterprises. It integrates with
+  existing company tools such as Slack, Salesforce, and Google Workspace to
+  capture both documented and undocumented operational knowledge, including
+  procedures, exceptions, judgment calls, and edge cases, then structures that
+  knowledge and serves it to employees and AI agents at critical decision
+  moments. Founded in 2026 in San Francisco by Anthony Kim (CEO) and Kevin Yu
+  (CTO), Savant positions itself as the company brain that every AI-native
+  enterprise runs on. As of this profile the company publishes a marketing
+  site, product guides, a changelog, a status page, and support and legal
+  pages, but exposes no public developer API, SDK, or API reference surface.
 url: https://raw.githubusercontent.com/api-evangelist/savant/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://heysavant.com/savant-og-image.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,12 +33,40 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Knowledge Management
+- Artificial Intelligence
+- AI Agents
+- Enterprise Knowledge
+- Operational Memory
+- Y Combinator
 apis: []
+common:
+- type: DomainSecurity
+  url: security/savant-domain-security.yml
+- type: Website
+  url: https://heysavant.com/
+- type: Documentation
+  url: https://heysavant.com/guides
+- type: StatusPage
+  url: https://heysavant.com/status
+- type: ChangeLog
+  url: https://heysavant.com/changelogs
+- type: Support
+  url: https://heysavant.com/support
+- type: TermsOfService
+  url: https://heysavant.com/terms
+- type: PrivacyPolicy
+  url: https://heysavant.com/privacy
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
