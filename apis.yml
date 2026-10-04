@@ -47,7 +47,7 @@ created: '2026-07-17'
 modified: '2026-07-21'
 tags:
 - Company
-- Knowledge-Management
+- Knowledge Management
 - Artificial Intelligence
 - AI Agents
 - Enterprise Knowledge
@@ -61,6 +61,7 @@ tags_raw:
 - Enterprise Knowledge
 - Operational Memory
 - Y Combinator
+- Knowledge-Management
 apis: []
 common:
 - type: DomainSecurity
