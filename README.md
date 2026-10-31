@@ -64,6 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Savant is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Savant (heysavant.com) is a Y Combinator (Spring 2026) startup building an operational memory layer for AI-native enterprises. It integrates with existing company tools such as Slack, Salesforce, and Google Workspace to capture both documented and undocumented operational knowledge, including procedures, exceptions, judgment calls, and edge cases, then structures that knowledge and serves it to employees and AI agents at critical decision moments. Founded in 2026 in San Francisco by Anthony Kim (CEO) and Kevin Yu (CTO), Savant positions itself as the company brain that every AI-native enterprise runs on. As of this profile the company publishes a marketing site, product guides, a changelog, a status page, and support and legal pages, but exposes no public developer API, SDK, or API reference surface.
 
-Backed by: y-combinator
+**Areas:** Company · Knowledge Management · Artificial Intelligence · AI Agents · Enterprise Knowledge · Operational Memory · Y Combinator
+
+## Savant on APIs.io
+
+Everything profiled for Savant is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/savant/](https://apis.io/providers/savant/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Savant Domain Security](https://apis.io/security/savant/savant-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://heysavant.com/)
+- [Documentation](https://heysavant.com/guides)
+- [Support](https://heysavant.com/support)
+- [Changelog](https://heysavant.com/changelogs)
+- [Terms of service](https://heysavant.com/terms)
+- [Privacy policy](https://heysavant.com/privacy)
+- [Status](https://heysavant.com/status)
+
+## API Evangelist rating
+
+**Kin Score 15.6** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/savant/](https://apis.io/providers/savant/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Savant: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/savant/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
